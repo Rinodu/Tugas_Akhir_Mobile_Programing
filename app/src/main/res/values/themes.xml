@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.CampusMatePro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#050505</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="colorPrimary">#17B8B8</item>
+        <item name="colorPrimaryVariant">#109DB8</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

@@ -1,0 +1,41 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android output
+*.apk
+*.aab
+
+# Java / Maven / NetBeans
+target/
+out/
+dist/
+nbproject/private/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / Archive / Video
+*.log
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.mkv
